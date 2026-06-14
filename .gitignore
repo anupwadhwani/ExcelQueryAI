@@ -1,0 +1,20 @@
+# Generated data and local databases
+*.json
+*.xlsx
+*.xls
+*.xlsm
+*.duckdb
+*.duckdb.wal
+start_ui
+
+# Python artifacts
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# Local environment and editor files
+.env
+.idea/
+.vscode/
+
